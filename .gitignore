@@ -1,0 +1,5 @@
+#Appliction
+/.htaccess
+db_data/
+uploads/
+.sass-cache/
