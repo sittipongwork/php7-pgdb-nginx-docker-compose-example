@@ -13,7 +13,7 @@ services:
 
   php:
       image: php:7-fpm-alpine
-      container_name: vibie-live-website-php7-alping
+      container_name: example-website-php7-alping
       volumes:
           - ./code:/code
       ports:
